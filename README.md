@@ -11,6 +11,9 @@ Creates a map based on user's Tweets, Gowalla and Foursquare check-ins
 
 ![soft tabs](https://github.com/lifechurch/location-board/raw/master/screenshots/screenshot.png)
 
+# History
+
+This app was made during a hackfest at the 2010 LifeChurch.tv Digerati retreat. We haven't really touched it since, so would love some help cleaning things up!
 
 # Contributing
 
