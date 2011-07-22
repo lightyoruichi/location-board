@@ -9,7 +9,7 @@ Creates a map based on user's Tweets, Gowalla and Foursquare check-ins
 
 # Screenshots
 
-![soft tabs](https://github.com/lifechurch/location-board/raw/master/screenshots/screenshot.png)
+![soft tabs](https://github.com/lifechurch/location-board/raw/master/screenshot.png)
 
 # History
 
