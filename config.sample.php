@@ -1,3 +1,3 @@
 <?php
-GOWALLA_API_KEY = '';
+define("GOWALLA_API_KEY", "something");
 ?>
